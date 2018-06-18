@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1526977137 source:h:\c++\autonoma\main.cpp
+	<iostream>
+	"NomasPunkts.h"
+
+1526976683 source:h:\c++\autonoma\src\auto.cpp
+	"../include/Auto.h"
+
+1526976649 h:\c++\autonoma\include\auto.h
+	<iostream>
+
+1526977072 h:\c++\autonoma\include\nomaspunkts.h
+	<vector>
+	<iostream>
+	"Auto.h"
+
+1527547732 source:c:\users\aivars\desktop\autonoma\main.cpp
+	<iostream>
+	"NomasPunkts.h"
+
+1529255938 c:\users\aivars\desktop\autonoma\include\nomaspunkts.h
+	<vector>
+	<iostream>
+	"Auto.h"
+	<cstdlib>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
+1529255587 c:\users\aivars\desktop\autonoma\include\auto.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
+1529255720 source:c:\users\aivars\desktop\autonoma\src\auto.cpp
+	"../include/Auto.h"
+
+1529255387 source:c:\users\aivars\desktop\autonoma\src\nomaspunkts.cpp
+	"NomasPunkts.h"
+
+1526968564 source:c:\users\temp.rvt.000\desktop\autonoma\main.cpp
+	<iostream>
+	"NomasPunkts.h"
+
+1527578134 c:\users\temp.rvt.000\desktop\autonoma\include\nomaspunkts.h
+	<vector>
+	<iostream>
+	"Auto.h"
+	<cstdlib>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
+1526968566 c:\users\temp.rvt.000\desktop\autonoma\include\auto.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
+1527583070 source:c:\users\temp.rvt.000\desktop\autonoma\src\auto.cpp
+	"../include/Auto.h"
+
+1527582931 source:c:\users\temp.rvt.000\desktop\autonoma\src\nomaspunkts.cpp
+	"NomasPunkts.h"
+
